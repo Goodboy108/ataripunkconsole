@@ -20,5 +20,30 @@ Editor File-
 
 https://cad.onshape.com/documents/c2ffda425c104f84df07931c/w/c49a1ccbf54cec41736d652f/e/a4275277b338c9575076d23b?renderMode=0&uiState=69f0734482d5808793d80294
 
-eaded-350-v	0.16				
-PCB(JLCPCB)	5	75.72	378.6	https://cart.jlcpcb.com/shopcart/cart	4				
+
+
+assembly instruction- 
+
+first, please solder all the components on to the pcb.
+then solder the leads of the speakers to the pins on pcb. 
+then solder the leads of the battery to the pins on the pcb. 
+then put everything in the custom enclosure.
+
+| Name | Unit | Price (INR) | Total Price (INR) | Link | Total (USD) | Notes |
+|------|------|-------------|-------------------|------|-------------|-------|
+| 14 Pin DIP IC Socket Base Adaptor | 3 | 4.61 | 13.83 | [Link](https://robu.in/product/14-pin-dip-ic-socket-base-adaptor-pack-of-5) | 0.15 |  |
+| 10nF (0.01uF - 2E103J) - 250V Polyester Film Capacitor | 4 | 3.17 | 12.68 | [Link](https://robu.in/product/10nf-0-01uf-2e103j-250v-polyester-film-capacitor-pack-of-10) | 0.13 | cheapest in the UAE |
+| 100nF 400V DIP Polyester Film Capacitor | 3 | 4.67 | 14.01 | [Link](https://robu.in/product/100nf-400v-dip-polyester-film-capacitor-pitch10mm) | 0.15 |  |
+| 0.5W 28mm 8Ω Trumpet Speaker Mini Audio Buzzer Driver | 2 | 10 | 20 | [Link](https://robu.in/product/0-5w-8ohm-trumpet-speaker-diameter-28mm) | 0.21 |  |
+| 4mm SPDT 1P2T Slide Switch | 3 | 4 | 12 | [Link](https://robu.in/product/4mm-spdt-1p2t-slide-switch-pack-of-10) | 0.13 |  |
+| I Type 9V Battery Connector Cable | 2 | 28 | 56 | [Link](https://robu.in/product/i-type-9v-battery-connector-buckle-with-dc15cm-black-and-red-cable) | 0.59 |  |
+| NE556N IC - Dual Timer IC | 2 | 23 | 46 | [Link](https://robu.in/product/ne556n-ic-dual-timer-ic) | 0.49 |  |
+| 1kΩ Resistor (CFR-25JB-52) | 7 | 1.56 | 10.92 | [Link](https://robu.in/product/cfr-25jb-52-1k-yageo-through-hole-resistor-1-kohm-cfr-series-250-mw-%c2%b1-5-axial-leaded-250-v) | 0.12 |  |
+| 500kΩ Trimming Potentiometer | 3 | 36 | 108 | [Link](https://robu.in/product/500-kohm-500-mw-10-through-hole-pcb-bourns-trimming-potentiometer) | 1.14 |  |
+| 470Ω Resistor (CFR-50JT-52) | 10 | 1.47 | 14.7 | [Link](https://robu.in/product/cfr-50jt-52-470r-yageo-through-hole-resistor-470-ohm-cfr-series-500-mw-%c2%b1-5-axial-leaded-350-v) | 0.16 |  |
+| PCB (JLCPCB) | 5 | 75.72 | 378.6 | [Link](https://cart.jlcpcb.com/shopcart/cart) | 4.00 |  |
+
+
+**Total Cost (INR):** 752.51  
+**Total Cost (USD):** 7.95  
+**Shipping:** $27.57  
